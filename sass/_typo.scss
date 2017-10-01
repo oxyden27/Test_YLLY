@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'lato-semi-bold';
+    src: url('fonts/lato-semibold.eot');
+    /* IE9 Compat Modes */
+    src: url('fonts/lato-semibold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('fonts/lato-semibold.woff2') format('woff2'), /* Super Modern Browsers */
+    url('fonts/lato-semibold.woff') format('woff'), /* Pretty Modern Browsers */
+    url('fonts/lato-semibold.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: 'lato-regular';
+    src: url('fonts/lato-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('fonts/lato-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('fonts/lato-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('fonts/lato-regular.woff') format('woff'), /* Pretty Modern Browsers */
+    url('fonts/lato-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: 'FunctionPro-Medium';
+    src: url('FuctionPro/FunctionPro-Medium.eot');
+    /* IE9 Compat Modes */
+    src: url('FuctionPro/FunctionPro-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    //       url('Staat/Staat-Bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    //       url('Staat/Staat-Bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+    url('FuctionPro/FunctionPro-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+}

@@ -1,0 +1,75 @@
+@media screen and(max-width:1024px) {
+    body #content #contenu_content {
+        padding-top: 45px;
+        padding-bottom: 45px;
+        width: 90%;
+    }
+    body #content #contenu_content .item {
+        width: 32.9%;
+        display: inline-block;
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+    }
+    body #zone_form form {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    body {
+        font-size: 16px;
+    }
+    .item img {
+        width: 110px;
+    }
+    header {
+        font-size: 18px;
+    }
+    body #zone_form form .zone_left_form input:last-of-type {
+        margin-bottom: 30px;
+    }
+    body footer p {
+        font-size: 18px;
+    }
+    body #zone_form form .zone_right_form textarea {
+        font-size: 16px;
+    }
+    body #zone_form form .zone_left_form span {
+        padding-left: 0px;
+        font-size: 24px;
+    }
+    body #zone_form form #bouton_envoi {
+        font-size: 16px;
+        height: 45Px;
+    }
+    body #zone_form form .zone_left_form input {
+        font-size: 16px;
+        height: 45px;
+        margin-bottom: 30px;
+    }
+    body #zone_form form {
+        margin: auto;
+        width: 80%;
+    }
+    body #content #contenu_content .item p {
+        line-height: 30px;
+    }
+    body #zone_slider #slider .border h1 {
+        font-size: 7em;
+    }
+    body #content #contenu_content .para_content {
+        line-height: 30px;
+    }
+    body #zone_slider #slider .border #ToScroll {
+        bottom: -25px;
+        width: 350px;
+        height: 55px;
+        font-size: 1em;
+    }
+}
+
+// rectif bug equal with 3items
+@media screen and(max-width:763px) {
+    body #content #contenu_content .item {
+        width: 32.8%;
+    }
+}
